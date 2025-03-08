@@ -1,11 +1,10 @@
 # MSF-Practica-1
 Practica 1: Diseño de controladores 
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Valle05211261]
 
 ## Autor
 Perez Chavez Marco Antonio 
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: marco.perez193@tectijuana.edu.mx
 
 ## Objetivos general
 Diseñar un controlador que permita eliminar el error entre la entrada [Ve(t)] y la salida [Vs(t)] de un circuito RLC de segundo orden.
