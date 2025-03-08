@@ -1,10 +1,9 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Marco35-png/MSF-Practica-1)
 
-# MSF-Practica-1
-Practica 1: Diseño de controladores 
+# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Perez19212423]
 
 ## Autor
-Perez Chavez Marco Antonio 
+Perez Chavez Marco Antonio
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: marco.perez193@tectijuana.edu.mx
 
